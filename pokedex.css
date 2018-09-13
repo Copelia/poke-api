@@ -27,6 +27,14 @@ body{
 
 }
 
+.loader{
+    object-fit: none;
+}
+
+.loader.hidden{
+    display: none;
+}
+
 .nombre{
     font-size: 40px;
 }
